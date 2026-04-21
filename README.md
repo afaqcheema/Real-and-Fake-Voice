@@ -1,4 +1,3 @@
-<img width="1282" height="440" alt="image" src="https://github.com/user-attachments/assets/e59509a7-aef5-4257-8b70-91a9fd0c5eff" />Project Overview
 This project implements a machine learning pipeline to detect fake (spoofed) and real (bonafide) audio samples using the ASVspoof 2019 dataset.
 The system extracts MFCC features and mel-spectrograms from audio files and trains both traditional machine learning models
 (Logistic Regression, Random Forest) and deep learning models (CNN) for binary classification.
